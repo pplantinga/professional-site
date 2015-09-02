@@ -3,8 +3,8 @@ title: Peter Plantinga
 email: plantinga.1@osu.edu
 description: > # this means to ignore newlines until "baseurl:"
   This site describes the entirety of my accomplishments in life up to this point.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cse.ohio-state.edu/~planting/" # the base hostname for your site
+baseurl: "/~planting" # the subpath of your site, e.g. /blog/
+url: "http://cse.ohio-state.edu" # the base hostname for your site
 github_username:  pplantinga
 
 # Build settings
