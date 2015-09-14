@@ -72,13 +72,14 @@ h1, h2, h3, h4, h5, h6
 a
     color: $link-color
     text-decoration: none
+    border-bottom: 1px solid $grey-color-dark
 
     &:visited
         color: darken($link-color, 15%)
 
     &:hover
         color: $text-color
-        text-decoration: underline
+        border-color: $text-color
 
 /**
  * Blockquotes
